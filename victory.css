@@ -1,0 +1,8 @@
+.pieSlice {
+  transition: stroke-width 0.15s ease-in-out;
+  cursor: pointer;
+}
+
+.pieSlice:hover {
+  stroke-width: 20px;
+}
